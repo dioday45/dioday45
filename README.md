@@ -1,4 +1,4 @@
-## Hey, there 👋 
+# Hey, there 👋 
 
 My name is Jeremy Di Dio and I am currently pursuing a master degree in Data Science at EPFL.
 
@@ -10,13 +10,14 @@ Here are some projects I worked on:
 
   Here is the final [report](https://github.com/dioday45/Emotion-recognition-evaluation-visualization/blob/main/report_final.pdf) of this project.
 
-- ##### [QAM modulation for complex AWGN communication](https://github.com/dioday45/PDC-2022) 
+- **[QAM modulation for complex AWGN communication](https://github.com/dioday45/PDC-2022)**
 
   Course project for COM-302 (Principles of Digital Communication). Done in group of 4, the goal of this project was to use QAM modulation and demodulation to correctly communicate through a complex AWGN channel.
 
 
 
-
+<br />
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
 
