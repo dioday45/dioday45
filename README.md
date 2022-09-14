@@ -8,7 +8,9 @@ Here are some projects I worked on:
 
   In this semester project done at the Immersive Interactive Group at EPFL. The goal was to implement a machine learning model able to detect in real-time the emotions (Anger, Happiness, Disgust, Sadness, Fear and Surprise) from a particular type of data provided by a new facial tracker used in virtual reality environment. This [Streamlit app](https://share.streamlit.io/dioday45/emotion-recognition-evaluation-visualization/main) present the evaluation part of the implemented models.
 
-  Here is the final [report](https://github.com/dioday45/Emotion-recognition-evaluation-visualization/blob/main/report_final.pdf) of this project.
+  [Here](https://github.com/dioday45/Emotion-recognition-evaluation-visualization/blob/main/report_final.pdf) is the final report of this project.
+
+<br />
 
 - **[QAM modulation for complex AWGN communication](https://github.com/dioday45/PDC-2022)**
 
