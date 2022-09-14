@@ -12,4 +12,4 @@ Here are some projects I worked on:
 
 
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/jeremy-di-dio-3002b920b/)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
