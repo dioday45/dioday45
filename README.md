@@ -10,6 +10,6 @@ Here are some projects I worked on:
 
   Here is the final [report](https://github.com/dioday45/Emotion-recognition-evaluation-visualization/blob/main/report_final.pdf) of this project.
 
-  
 
-📫 How to reach me: jeremy.didio@hotmail.com
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/leonardoferreirads/)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
