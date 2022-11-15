@@ -20,7 +20,7 @@ Here are some projects I worked on:
   
 - **[Higgs boson machine learning challenge](https://github.com/dioday45/CS433_Project1)**
 
-Course project for CS-433 (Machine Learning), done in group of 3. In this project, we present our methodology to answer the Higgs boson machine learning challenge which consists in building a binary classifier to predict whether an event corresponds to the decay of a Higgs boson or not. In other words, we will train machine learning model on precollected data to further predict wether a collision was signal or background.
+  Course project for CS-433 (Machine Learning), done in group of 3. In this project, we present our methodology to answer the Higgs boson machine learning challenge which consists in building a binary classifier to predict whether an event corresponds to the decay of a Higgs boson or not. In other words, we will train machine learning model on precollected data to further predict wether a collision was signal or background.
 
 
 
