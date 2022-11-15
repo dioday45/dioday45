@@ -15,6 +15,12 @@ Here are some projects I worked on:
 - **[QAM modulation for complex AWGN communication](https://github.com/dioday45/PDC-2022)**
 
   Course project for COM-302 (Principles of Digital Communication). Done in group of 4, the goal of this project was to use QAM modulation and demodulation to correctly communicate through a complex AWGN channel.
+  
+  <br />
+  
+- **[Higgs boson machine learning challenge](https://github.com/dioday45/CS433_Project1)**
+
+Course project for CS-433 (Machine Learning), done in group of 3. In this project, we present our methodology to answer the Higgs boson machine learning challenge which consists in building a binary classifier to predict whether an event corresponds to the decay of a Higgs boson or not. In other words, we will train machine learning model on precollected data to further predict wether a collision was signal or background.
 
 
 
