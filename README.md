@@ -25,7 +25,7 @@ Here are some projects I worked on:
 
 
 <br />
-- **[Tweets sentimental analysis](https://github.com/dioday45/CS433_Project1)**
+- **[Tweets sentimental analysis](https://github.com/dioday45/CS433_Project2)**
   In this project, we developed multiple machine learning models for the purpose of conducting sentiment analysis on Twitter posts. The objective was to classify the posts as either positive or negative. To achieve this, we employed some state-of-the-art transformer models, including BERT and RoBERTa, for the classification task. The performance of our best model was evaluated on the testing set, yielding an accuracy of 0.892.
 
 <br />
