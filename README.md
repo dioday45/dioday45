@@ -20,11 +20,14 @@ Here are some projects I worked on:
   
 - **[Higgs boson machine learning challenge](https://github.com/dioday45/CS433_Project1)**
 
-  Course project for CS-433 (Machine Learning), done in group of 3. In this project, we present our methodology to answer the Higgs boson machine learning challenge which consists in building a binary classifier to predict whether an event corresponds to the decay of a Higgs boson or not. In other words, we will train machine learning model on precollected data to further predict wether a collision was signal or background.
+  In this project, we present our methodology to answer the Higgs boson machine learning challenge which consists in building a binary classifier to predict whether an event corresponds to the decay of a Higgs boson or not. In other words, we will train machine learning model on precollected data to further predict wether a collision was signal or background.
 
 
 
 <br />
+- **[Tweets sentimental analysis](https://github.com/dioday45/CS433_Project1)**
+  In this project, we developed multiple machine learning models for the purpose of conducting sentiment analysis on Twitter posts. The objective was to classify the posts as either positive or negative. To achieve this, we employed some state-of-the-art transformer models, including BERT and RoBERTa, for the classification task. The performance of our best model was evaluated on the testing set, yielding an accuracy of 0.892.
+
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
