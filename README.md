@@ -11,6 +11,12 @@ Here are some projects I worked on:
   [Here](https://github.com/dioday45/Emotion-recognition-evaluation-visualization/blob/main/report_final.pdf) is the final report of this project.
 
 <br />
+- **[Tweets sentimental analysis](https://github.com/dioday45/CS433_Project2)**
+
+  In this project, we developed multiple machine learning models for the purpose of conducting sentiment analysis on Twitter posts. The objective was to classify the posts as either positive or negative. To achieve this, we employed some state-of-the-art transformer models, including BERT and RoBERTa, for the classification task. The performance of our best model was evaluated on the testing set, yielding an accuracy of 0.892.
+
+
+<br />
 
 - **[QAM modulation for complex AWGN communication](https://github.com/dioday45/PDC-2022)**
 
@@ -26,11 +32,7 @@ Here are some projects I worked on:
 
 <br />
 
-- **[Tweets sentimental analysis](https://github.com/dioday45/CS433_Project2)**
 
-  In this project, we developed multiple machine learning models for the purpose of conducting sentiment analysis on Twitter posts. The objective was to classify the posts as either positive or negative. To achieve this, we employed some state-of-the-art transformer models, including BERT and RoBERTa, for the classification task. The performance of our best model was evaluated on the testing set, yielding an accuracy of 0.892.
-
-<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-di-dio-3002b920b/) 
 
