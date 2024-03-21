@@ -13,7 +13,7 @@ Here are some projects I worked on:
 
 - **[Cluster-based approaches for cryptocurrency portfolio optimization](https://github.com/dioday45/FIN-525-Project)**
 
-  The project examines filtering methods for cryptocurrency return correlations to optimize portfolios. Techniques like Random Matrix Theory and clustering are used to identify asset groups with correlated movements. Principal Component Analysis is employed to construct a global minimum variance portfolio. Data from 269 cryptocurrencies between January 2021 and December 2022 is analyzed for cluster stability and risk comparison. [Finale report](https://github.com/dioday45/FIN-525-Project/blob/main/report.pdf)
+  The project examines filtering methods for cryptocurrency return correlations to optimize portfolios. Techniques like Random Matrix Theory and clustering are used to identify asset groups with correlated movements. Principal Component Analysis is employed to construct a global minimum variance portfolio. Data from 269 cryptocurrencies between January 2021 and December 2022 is analyzed for cluster stability and risk comparison. [Report](https://github.com/dioday45/FIN-525-Project/blob/main/report.pdf)
 
 <br />
 
