@@ -1,6 +1,6 @@
 # Hey, there 👋 
 
-My name is Jeremy Di Dio and I am currently pursuing a master degree in Data Science at EPFL.
+My name is J. Di Dio and I am currently pursuing a master degree in Data Science at EPFL.
 
 Here are some projects I worked on:
 
