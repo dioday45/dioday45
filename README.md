@@ -8,9 +8,9 @@ Here are some projects I worked on:
 
 - **[ETH Datathon 2025](https://github.com/dioday45/Datathon2025-ETH)**
   
-This project focuses on predicting hourly electricity demand for thousands of consumers in Italy and Spain.
-During the 2025 Alpiq Datathon, we were tasked with developing the best possible model to forecast an entire month of hourly demand for each consumer. We started by implementing a simple baseline model that used the average consumption for each day of the week and hour, based on the previous month's data.
-From there, we iteratively improved our approach, exploring more advanced modeling techniques and feature engineering to boost prediction accuracy and reduce test set loss.
+  This project focuses on predicting hourly electricity demand for thousands of consumers in Italy and Spain.
+  During the 2025 Alpiq Datathon, we were tasked with developing the best possible model to forecast an entire month of hourly demand for each consumer. We started by implementing a simple baseline model that used the average consumption for each day of the week and hour, based on the previous month's data.
+  From there, we iteratively improved our approach, exploring more advanced modeling techniques and feature engineering to boost prediction accuracy and reduce test set loss.
 <br />
 
 - **[Stop Pre-Training: Adapt Vision-Language Models to Unseen Languages](https://github.com/dioday45/stop-pre-training/blob/main/IGLUE_adapters.pdf)**
